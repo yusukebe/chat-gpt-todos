@@ -1,6 +1,6 @@
 # Creating ChatGPT plugin with Zod OpenAPI Hono
 
-With [Zod OpenAPI Hono](https://github.com/honojs/middleware/tree/main/packages/zod-openapi), you can create your ChatGPT plugin a minute.
+With [Zod OpenAPI Hono](https://github.com/honojs/middleware/tree/main/packages/zod-openapi), you can create your ChatGPT plugin in a minute.
 
 ## TODO Plugin
 
