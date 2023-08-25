@@ -20,6 +20,10 @@ This repository contains a plugin for ChatGPT that allows users to manage a simp
 * View TODOs: I want to see my TODOs
 * Delete a TODO: I want to delete a TODO
 
+## Demo
+
+https://github.com/yusukebe/chat-gpt-todos/assets/10682/a3445284-e777-4f54-a584-5ea214360096
+
 ## Authors
 
 * Yusuke Wada <https://github.com/yusukebe>
